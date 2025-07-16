@@ -5,7 +5,7 @@ This document outlines the daily tasks and learning activities undertaken as par
 
 ---
 
-##3.Detection & Threat Behavior
+## 3.Detection & Threat Behavior
 
 
 ###  15.07.2025  
