@@ -1,8 +1,14 @@
 # Lab Notes
 
+Windows 10 lab:
+username:user
+password:1234
+-I congfigured and installed [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) and this [config]((https://github.com/SwiftOnSecurity/sysmon-config))
+-I Downloaded [procdump](https://learn.microsoft.com/en-us/sysinternals/downloads/procdump)
+
 ## Overview
 
-During this lab/project, several problems were encountered while attempting to run PowerShell commands and dump the `lsass.exe` process memory. These issues were identified, debugged, and resolved where possible. After stabilizing the environment, I simulated two MITRE ATT&CK techniques and used Hayabusa to export and analyze the results.
+During this lab/project testing and building, several problems were encountered while attempting to run PowerShell commands and dump the `lsass.exe` process memory. These issues were identified, debugged, and resolved where possible. After stabilizing the environment, I simulated two MITRE ATT&CK techniques and used Hayabusa to export and analyze the results.
 
 ---
 

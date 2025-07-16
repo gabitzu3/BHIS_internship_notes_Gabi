@@ -1,6 +1,6 @@
 # Lab: Introduction to Detection & Threat Behavior
 
-## 🧠 Goal
+## Goal
 Simulate and detect basic adversarial techniques mapped to the MITRE ATT&CK framework using PowerShell, Sysmon, and open-source tools.
 
 ---
@@ -124,3 +124,10 @@ These events show interaction with the `lsass.exe` process—an indicator of cre
 
 ---
 
+links and sources:
+https://github.com/SwiftOnSecurity/sysmon-config
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
+https://github.com/Yamato-Security/hayabusa
+https://www.microsoft.com/en-ca/software-download/windows10
+https://www.virtualbox.org/
