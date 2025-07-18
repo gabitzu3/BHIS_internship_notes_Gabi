@@ -8,6 +8,9 @@ Simulate and detect basic adversarial techniques mapped to the MITRE ATT&CK fram
 ## Step 1: Install Sysmon with Configuration
 
 1. Open **Command Prompt** as Administrator.
+
+![cmd as admin](https://i.ibb.co/V0fx9c58/image.png)
+
 2. Navigate to the lab directory:
 
 ```cmd
@@ -20,6 +23,8 @@ cd C:\Users\user\Desktop\sysmon-lab
 Sysmon64.exe -accepteula -i sysmonconfig-export.xml
 ```
 
+![cmd sysmon install](https://i.ibb.co/hRDFjvs0/image.png)
+
 ---
 
 ## Step 2: Simulate ATT&CK Techniques
@@ -29,6 +34,9 @@ Sysmon64.exe -accepteula -i sysmonconfig-export.xml
 **ATT&CK ID**: [T1059.001](https://attack.mitre.org/techniques/T1059/001/)
 
 1. Open **PowerShell** as Administrator.
+
+![powershell as admin](https://i.ibb.co/xtHw30sM/image.png)
+
 2. Run the following script:
 
 ```powershell
@@ -37,6 +45,10 @@ $bytes = [System.Text.Encoding]::Unicode.GetBytes($command)
 $encoded = [Convert]::ToBase64String($bytes)
 powershell.exe -EncodedCommand $encoded
 ```
+
+![powershell tactic 1](https://i.ibb.co/KcDWH8KY/image.png)
+
+- this should open a Notepad window.
 
 ---
 
@@ -55,6 +67,8 @@ cd C:\Users\user\Desktop\sysmon-lab\Procdump
 ```cmd
 .\procdump.exe -ma lsass.exe lsass.dmp
 ```
+
+![powershell tactic 2](https://i.ibb.co/zhVBwcLr/image.png)
 
 > **Note**: Windows Defender may block this action. If necessary, disable it temporarily for testing.
 
