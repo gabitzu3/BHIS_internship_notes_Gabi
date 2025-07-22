@@ -67,3 +67,41 @@ This document outlines the daily tasks and learning activities undertaken as par
 
 ---
 
+### 21.07.2025
+**Total Time Spent:** 5 hours and 15 minutes (14:00-20:21)
+*Breaks: -1 hour (dinner) -5 minutes (toilet)*
+
+#### Activities:
+
+
+- Set up the new laptop, installed the OS, and configured everything, including email and security settings.
+
+- Transferred files from my main laptop and organized them for easy access.
+
+- Started setting up VMs and lab environment(I left them transfering overnight)
+
+- Started the "Networking & Telemetry 101" section. Gathered resources, took detailed notes on network ports, network logs, and the differences between NetFlow vs. full packet capture.
+
+- Combined this with my own knowledge to create a solid reference.
+
+- Began putting together a note file explaining the Wireshark interface. Focused on key features and shortcuts, breaking down the tools for easier network analysis.
+
+- I worked on tcpdump documentation and finished it
+
+
+
+### 22.07.2025
+**Total Time Spent:** 5 hours and 20 minutes (14:10-19:41)
+*Breaks: - 10 minutes (toilet x2)*
+
+#### Activities:
+
+- Moved labs/VMs to laptop: Since the labs were quite big, I transferred them via peer-to-peer and it took some time so they finished moving overnight 
+
+- Wireshark documentation:finished the documentation and added photos; 
+
+- Zeek setup and Docker issues: Ran into issues with Zeek and Docker, spent a few hours debugging and testing to fix them.(but I couldn't fix anything)
+
+- I worked on Zeek documentation and finished it, even if I couldn't run Zeek 
+
+- Annual Security Training: Watched the training.(only watched yet)
