@@ -67,9 +67,11 @@ This document outlines the daily tasks and learning activities undertaken as par
 
 ---
 
+## 5.Networking & Telemetry 101
+
 ### 21.07.2025
 **Total Time Spent:** 5 hours and 15 minutes (14:00-20:21)
-*Breaks: -1 hour (dinner) -5 minutes (toilet)*
+*Breaks: -1 hour (dinner), -5 minutes (toilet)*
 
 #### Activities:
 
@@ -88,7 +90,7 @@ This document outlines the daily tasks and learning activities undertaken as par
 
 - I worked on tcpdump documentation and finished it
 
-
+---
 
 ### 22.07.2025
 **Total Time Spent:** 5 hours and 20 minutes (14:10-19:41)
@@ -105,3 +107,35 @@ This document outlines the daily tasks and learning activities undertaken as par
 - I worked on Zeek documentation and finished it, even if I couldn't run Zeek 
 
 - Annual Security Training: Watched the training.(only watched yet)
+
+---
+
+### 23.07.2025
+**Total Time Spent:** 4 hours and 25 minutes (14:22-18:55)
+*Breaks: -5 minutes (toilet)*
+
+#### Activities:
+
+- worked on a wireshark lab, I tried to create a custom pcap file for 2 hours but I couldn't get what I wanted so I searched on Google for random pcaps and I found one. So tomorrow I will try to create some questions and finish the actual lab.
+
+- completed CJ Cox's checklist(Annual Security Training)
+
+- I've set a new Kali Linux lab to learn Snort and Suricata
+
+- Installed Snort but I didn't have much time today to learn anything
+
+---
+
+### 24.07.2025
+**Total Time Spent:** 5 hours (14:01-20:32)
+*Breaks: -30 minutes (recreative break), -1 hour (dinner)*
+
+#### Activities:
+
+- researched LDAP Protocol
+
+- finished the [Wireshark LDAP lab](./Documentation%20Notes/Networking%20&%20Telemetry%20101/labs/wireshark_ldap_lab.md)... FINALY :)
+
+- finished the [step-by-step solution](./Documentation%20Notes/Networking%20&%20Telemetry%20101/labs/wireshark_ldap_lab_solution.md) // It was the longest lab I've ever worked on
+
+- started researching Snort but not so much time to practically explore it, only some documentation from the web and a few notes. I'll play with it tomorrow and think for a lab idea.
