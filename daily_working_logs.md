@@ -139,3 +139,21 @@ This document outlines the daily tasks and learning activities undertaken as par
 - finished the [step-by-step solution](./Documentation%20Notes/Networking%20&%20Telemetry%20101/labs/wireshark_ldap_lab_solution.md) // It was the longest lab I've ever worked on
 
 - started researching Snort but not so much time to practically explore it, only some documentation from the web and a few notes. I'll play with it tomorrow and think for a lab idea.
+
+---
+
+### 25.07.2025
+**Total Time Spent:** 6 hours (14:13=20:25)
+*Breaks: -10 minutes (toilet x2)*
+
+#### Activities:
+
+- Spent time exploring and experimenting with Snort; completed initial research and testing (and also the notes documentation for the tool)
+
+- Also spent time exploring and playing with Suricata. Finished the documentation for this tool too
+
+- Started working on a new [IDS lab](./Documentation%20Notes/Networking%20&%20Telemetry%20101/labs/ids_lab) and finished it surprisingly today
+
+- Finished section 5:"Networking & Telemetry 101" and also finished the tools documentation releted to this section
+
+- Updated the colaborative repository with a part of my work.
