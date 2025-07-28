@@ -143,7 +143,7 @@ This document outlines the daily tasks and learning activities undertaken as par
 ---
 
 ### 25.07.2025
-**Total Time Spent:** 6 hours (14:13=20:25)
+**Total Time Spent:** 6 hours (14:13-20:25)
 *Breaks: -10 minutes (toilet x2)*
 
 #### Activities:
@@ -157,3 +157,19 @@ This document outlines the daily tasks and learning activities undertaken as par
 - Finished section 5:"Networking & Telemetry 101" and also finished the tools documentation releted to this section
 
 - Updated the colaborative repository with a part of my work.
+
+---
+
+## 8.Email Fundamentals
+
+### 28.07.2025
+**Total Time Spent:** 5 hours and 30 minutes (14:01-19:40)
+*Breaks: -5 minutes (toilet)*
+
+- Starting working on the section `8.Email Fundamentals`
+
+- Finished the [phishing email documentation](./Documentation%20Notes/Email%20Fundamentals/email_fundamentals.md)
+
+- Starting working on a [email lab](./Documentation%20Notes/Email%20Fundamentals/phishing_email_lab.md)
+
+- Finished the [email lab](./Documentation%20Notes/Email%20Fundamentals/phishing_email_lab.md) and also the [email lab solution](./Documentation%20Notes/Email%20Fundamentals/phishing_email_lab_solution.md)
