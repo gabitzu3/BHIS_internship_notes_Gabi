@@ -18,7 +18,7 @@ Enter a domain of your choosing, and the email and notification method you want 
 
 ---
 
-## Step 2: Set Up the Honeypot on MetaCTFD Windows + Kali VM
+## Step 2: Set Up the Honeypot on MetaCTF Windows + Kali VM
 
 Log into your Kali instance.  
 
