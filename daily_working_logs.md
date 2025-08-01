@@ -173,3 +173,21 @@ This document outlines the daily tasks and learning activities undertaken as par
 - Starting working on a [email lab](./Documentation%20Notes/Email%20Fundamentals/phishing_email_lab.md)
 
 - Finished the [email lab](./Documentation%20Notes/Email%20Fundamentals/phishing_email_lab.md) and also the [email lab solution](./Documentation%20Notes/Email%20Fundamentals/phishing_email_lab_solution.md)
+
+
+### 29.07.2025 (1 hour and 30 minutes) (2 hours and 40 minutes // n)
+
+8:00-9:30-finished the work/course in the colab repo
+10:00-11:00-ctf ace-t
+14:20-15:00-ctf ace-t
+
+
+### 30.07.2025 (2 hours and 30 minutes // n)
+
+09:00-11:30-ctf ace-t and started the adhd course
+
+31.07.2025 (2 hours and 30 minutes // n) (1 hour and 40 minutes)
+
+### 9:30-12:00 -ctf ace-t
+
+21:19-23:00 -Updating labs for the cloud VM
