@@ -230,3 +230,21 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 -edited labs
 
 -updated my labs and also Alex's labs with Tim's requierments
+
+### 06.08.2025 (5 hours and 45 minutes)
+
+14:30-17:15  
+
+17:45-20:45
+
+-updated Labs
+
+-added photos to the ids lab
+
+-updated GitHub pages
+
+-searched for .eml files
+
+-I also set up an ubuntu vm for the memory dump
+
+-moving the Lima Charlie lab from https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/limacharlie/limacharlie.md
