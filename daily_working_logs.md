@@ -178,7 +178,9 @@ This document outlines the daily tasks and learning activities undertaken as par
 ### 29.07.2025 (1 hour and 30 minutes) (2 hours and 40 minutes // n)
 
 8:00-9:30-finished the work/course in the colab repo
+
 10:00-11:00-ctf ace-t
+
 14:20-15:00-ctf ace-t
 
 
@@ -203,7 +205,9 @@ This document outlines the daily tasks and learning activities undertaken as par
 ### 04.08.2025 (1 hour and 10 minutes // n) (4 hours and 5 minutes)
 
 14:30-15:40- ace-t ctf
+
 16:20-18:15- starting building the ubuntu vm
+
 19:00-21:10- debugging suricata, keep getting these errors and cannot solve them("sudo suricata -c /etc/suricata/suricata.yaml -i lo
 i: suricata: This is Suricata version 7.0.3 RELEASE running in SYSTEM mode
 W: ioctl: lo: failed to set SIOCETHTOOL ioctl: Operation not supported
@@ -215,6 +219,7 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 ### 05.08.2025(4 hours and 40 minutes)
 
 17:10-19:50 
+
 20:00-22:00
 
 
