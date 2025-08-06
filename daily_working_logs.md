@@ -174,47 +174,68 @@ This document outlines the daily tasks and learning activities undertaken as par
 
 - Finished the [email lab](./Documentation%20Notes/Email%20Fundamentals/phishing_email_lab.md) and also the [email lab solution](./Documentation%20Notes/Email%20Fundamentals/phishing_email_lab_solution.md)
 
+---
 
 ### 29.07.2025 (1 hour and 30 minutes) (2 hours and 40 minutes // n)
 
-8:00-9:30-finished the work/course in the colab repo
+8:00-9:30
 
-10:00-11:00-ctf ace-t
+- finished the work/course in the colab repo
 
-14:20-15:00-ctf ace-t
+10:00-11:00
 
+14:20-15:00
+
+- ctf ace-t
+
+---
 
 ### 30.07.2025 (2 hours and 30 minutes // n)
 
 09:00-11:30-ctf ace-t and started the adhd course
 
+---
+
 ### 31.07.2025 (2 hours and 30 minutes // n) (1 hour and 40 minutes)
 
-9:30-12:00 -ctf ace-t
+9:30-12:00 
+21:19-23:00
 
-21:19-23:00 -Updating labs for the cloud VM
+- ctf ace-t
+
+- Updating labs for the cloud VM
 
 
 
--------//Clockify not registered //August
+-------//Clockify not updated //August
 
 ### 01.08.2025 (1 hour and 20 minutes)
 
-11:00-12:20- Updating labs
+11:00-12:20
+
+- Updating labs
+
+---
 
 ### 04.08.2025 (1 hour and 10 minutes // n) (4 hours and 5 minutes)
 
-14:30-15:40- ace-t ctf
+14:30-15:40
+16:20-18:15
+19:00-21:10
 
-16:20-18:15- starting building the ubuntu vm
+- ace-t ctf
 
-19:00-21:10- debugging suricata, keep getting these errors and cannot solve them("sudo suricata -c /etc/suricata/suricata.yaml -i lo
+- starting building the ubuntu vm
+
+- debugging suricata, keep getting these errors and cannot solve them("sudo suricata -c /etc/suricata/suricata.yaml -i lo
 i: suricata: This is Suricata version 7.0.3 RELEASE running in SYSTEM mode
 W: ioctl: lo: failed to set SIOCETHTOOL ioctl: Operation not supported
 E: af-packet: lo: Frame size bigger than block size
 E: af-packet: lo: ring parameters are incorrect. Please file a bug report
 E: af-packet: lo: failed to init socket for interface
 E: threads: thread "W#01-lo" failed to start: flags 0423")
+
+---
 
 ### 05.08.2025(4 hours and 40 minutes)
 
@@ -223,13 +244,15 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 20:00-22:00
 
 
--finished the ubuntu vm
+- finished the ubuntu vm
 
--made a list with everything that was installed by me and Alex
+- made a list with everything that was installed by me and Alex
 
--edited labs
+- edited labs
 
--updated my labs and also Alex's labs with Tim's requierments
+- updated my labs and also Alex's labs with Tim's requierments
+
+---
 
 ### 06.08.2025 (5 hours and 45 minutes)
 
@@ -237,14 +260,14 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 
 17:45-20:45
 
--updated Labs
+- updated Labs
 
--added photos to the ids lab
+- added photos to the ids lab
 
--updated GitHub pages
+- updated GitHub pages
 
--searched for .eml files
+- searched for .eml files
 
--I also set up an ubuntu vm for the memory dump
+- I also set up an ubuntu vm for the memory dump
 
--moving the Lima Charlie lab from https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/limacharlie/limacharlie.md
+- moving the Lima Charlie lab from https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/limacharlie/limacharlie.md
