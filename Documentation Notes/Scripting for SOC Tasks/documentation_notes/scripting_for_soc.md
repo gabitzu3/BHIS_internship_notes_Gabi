@@ -1,5 +1,5 @@
 
-# Scripting for SOC Tasks notes/overview
+# Scripting for SOC Tasks 
 
 - Automate repetitive tasks
 
@@ -39,7 +39,7 @@ with open("EXAMPLE.json") as file:
         print(entry["username"])
 ```
 
-#### Python libraries learned
+#### Python libraries
 
 - `requests`: For making HTTP requests to APIs (ex: VirusTotal)
 - `json`: for working with structured data from logs or API responses
@@ -101,24 +101,13 @@ Explanation:
 - it filters Windows Security logs for failed logins
 - after that, it outputs results to a CSV file for further analysis
 
----
-
-I also worked on basic scripting skills and I made 2 scripts:
-
-- The first script is [failed_logins_extractor.py](./../personal_scripts/failed_logins_extractor.py). It works only if the specified parameters are changed to the actual row names.
-
-- The second script is [AbuseIPDB.py](./../personal_scripts/AbuseIPDB.py). I tried it and it works perfectly, as you can see in the screenshot below. The only thing that needs to be changed is the API.
-
-![ip script test](https://i.ibb.co/Qv7PGf51/Screenshot-2025-07-17-174359.png)
-
----
 
 resources:
 
 - https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
 - https://www.abuseipdb.com/api.html
-- https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/    -very useful encyclopedia
-- https://regexone.com/ -great exercises I used to learn Regex
-- https://gto76.github.io/python-cheatsheet/ -another cheatsheet I used
-- https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started  -this is what I used for learning a few powershell commands
+- https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
+- https://regexone.com/
+- https://gto76.github.io/python-cheatsheet/
+- https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started
 - https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5

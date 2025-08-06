@@ -186,8 +186,39 @@ This document outlines the daily tasks and learning activities undertaken as par
 
 09:00-11:30-ctf ace-t and started the adhd course
 
-31.07.2025 (2 hours and 30 minutes // n) (1 hour and 40 minutes)
+### 31.07.2025 (2 hours and 30 minutes // n) (1 hour and 40 minutes)
 
-### 9:30-12:00 -ctf ace-t
+9:30-12:00 -ctf ace-t
 
 21:19-23:00 -Updating labs for the cloud VM
+
+
+
+-------//Clockify not registered //August
+
+### 01.08.2025 (1 hour and 20 minutes)
+
+11:00-12:20- Updating labs
+
+### 04.08.2025 (1 hour and 10 minutes // n) (4 hours and 5 minutes)
+
+14:30-15:40- ace-t ctf
+16:20-18:15- starting building the ubuntu vm
+19:00-21:10- debugging suricata, keep getting these errors and cannot solve them("sudo suricata -c /etc/suricata/suricata.yaml -i lo
+i: suricata: This is Suricata version 7.0.3 RELEASE running in SYSTEM mode
+W: ioctl: lo: failed to set SIOCETHTOOL ioctl: Operation not supported
+E: af-packet: lo: Frame size bigger than block size
+E: af-packet: lo: ring parameters are incorrect. Please file a bug report
+E: af-packet: lo: failed to init socket for interface
+E: threads: thread "W#01-lo" failed to start: flags 0423")
+
+### 05.08.2025(4 hours and 40 minutes)
+
+17:10-19:50 
+20:00-22:00
+
+
+-finished the ubuntu vm
+-made a list with everything that was installed by me and Alex
+-edited labs
+-updated my labs and also Alex's labs with Tim's requierments

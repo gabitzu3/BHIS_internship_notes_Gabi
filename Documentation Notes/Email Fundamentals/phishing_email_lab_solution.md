@@ -19,11 +19,17 @@
 **Sublime Analyzer results:**
 
 ![result Sublime Analyzer](https://i.ibb.co/DHDvMnc4/image.png)
+
+>[!IMPORTANT]
+>
 >Sublime Analyzer detects the mail as malicious
 
 ![result Sublime Analyzer 2](https://i.ibb.co/LD8MrHWK/image.png)
+
 ![result Sublime Analyzer 3](https://i.ibb.co/LDWtWQCQ/image.png)
 
+>[!IMPORTANT]
+>
 >Here are additional indicators that suggest this is a phishing email.
 
 **Answers:**
@@ -118,5 +124,3 @@ CEO
 | **Indicators of Phishing?**          | Spoofed address, failed auth, urgency,  vague language                       |
 | **Severity Level (Low/Medium/High)** | High – realistic spoof + phishing link + impersonation                       |
 | **Recommended Action**               | Block domain, alert users, report to CERT, blacklist link                    |
-
----

@@ -1,5 +1,3 @@
-I haven't used powershell much, here is what commands I've learned so far, beside the basic ones I already knew.
-
 
 # 1. System Information Gathering
 
@@ -120,6 +118,6 @@ Get-WinEvent -LogName Security -MaxEvents 1000 | Export-Clixml -Path logs.xml
 resources:
 
 - https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
-- https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/    -very useful encyclopedia
-- https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started  -this is what I used for learning a few powershell commands
+- https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
+- https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started
 - https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5

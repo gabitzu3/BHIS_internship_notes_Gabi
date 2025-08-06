@@ -1,10 +1,11 @@
-# Email Fundamentals for SOC Analysts
+# Email Fundamentals
 
 Email remains one of the **most exploited vectors in cyberattacks**, especially for initial access. As a SOC Analyst, having a deep understanding of email-based threats and defenses is essential to protecting your organization.
 
----
 
-##  1. Identifying Phishing Indicators
+## Identifying Phishing
+
+Phishing is the most common form of email‑based attack. Attackers impersonate trusted senders, trick users into clicking malicious links, or open dangerous attachments.
 
 Phishing is the most common form of email‑based attack. Attackers impersonate trusted senders, trick users into clicking malicious links, or open dangerous attachments.
 
@@ -43,7 +44,7 @@ Phishing is the most common form of email‑based attack. Attackers impersonate 
 
 ---
 
-## 2. Common Email‑Based Attacks
+## Common Email-Based Attacks
 
 ### 2.1 Business Email Compromise (BEC)
 
@@ -77,7 +78,7 @@ Phishing is the most common form of email‑based attack. Attackers impersonate 
 
 ---
 
-## 3. Email Security Solutions
+## Email Security Solutions
 
 ### 3.1 Secure Email Gateways (SEGs)
 
@@ -118,7 +119,7 @@ Phishing is the most common form of email‑based attack. Attackers impersonate 
 
 ---
 
-##  4. Email Header Parsing Script
+##  Email Header Parsing Script
 
 
 Use Python to extract and examine critical header fields:
@@ -158,7 +159,7 @@ if __name__ == "__main__":
 
 ```
 
-## 5. Check for Data Breaches
+##  Check for Data Breaches
 
 Use [Have I Been Pwned](https://haveibeenpwned.com/) to check if your email address or personal information has been part of a known data breach. This site provides details about which data (such as passwords, phone numbers, or addresses) may have been compromised.
 
@@ -168,7 +169,7 @@ Always verify the source and content of such emails carefully.
 
 
 
-## 6. References & Further Reading and Learning Materials
+##  References & Further Reading and Learning Materials
 
 
 - [Cloudflare Learning: SPF/DKIM/DMARC explanations](https://www.cloudflare.com/learning/email-security/dmarc-dkim-spf/)
@@ -189,4 +190,10 @@ Always verify the source and content of such emails carefully.
 - [ ] Ensure your organization’s SPF, DKIM, and DMARC are correctly configured.  
 - [ ] Use SEGs to filter and sandbox inbound email traffic.  
 - [ ] Automate header analysis with scripts to catch anomalies quickly. (optional) 
+
+
+
+## Projects to Try
+
+Check out the [phishing_email_lab.md](./phishing_email_lab.md) and also the [solution](./phishing_email_lab_solution.md)
 
