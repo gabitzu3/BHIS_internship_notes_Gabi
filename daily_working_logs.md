@@ -224,6 +224,9 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 
 
 -finished the ubuntu vm
+
 -made a list with everything that was installed by me and Alex
+
 -edited labs
+
 -updated my labs and also Alex's labs with Tim's requierments
