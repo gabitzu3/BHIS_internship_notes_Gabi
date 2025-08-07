@@ -271,3 +271,22 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 - I also set up an ubuntu vm for the memory dump
 
 - moving the Lima Charlie lab from https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/limacharlie/limacharlie.md
+
+
+### 07.08.2025 (7 hours and 35 minutes)
+
+14:00-15:40    
+16:15-22:20
+> -10 minutes(2 toilet breaks)
+
+- worked on the .eml files in the email section
+
+- created some ctf questions for the email files
+
+- presented a live demo of all the labs
+
+- Added photos to the ctf writeups
+
+- Finished all 8 .eml files and ctf questions!
+
+- Updated the colab repo
