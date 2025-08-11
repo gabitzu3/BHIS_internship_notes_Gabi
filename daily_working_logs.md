@@ -326,7 +326,7 @@ export PATH=/usr/local/zeek/bin:$PATH
 - researched and learned more about Zeek
 
 
-### 11.08.2025 (5 hours and 25 minutes)
+### 11.08.2025 (6 hours and 25 minutes)
 
 11:01-17:27
 
