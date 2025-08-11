@@ -271,6 +271,7 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 
 - moving the Lima Charlie lab from https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/limacharlie/limacharlie.md
 
+---
 
 ### 07.08.2025 (7 hours and 35 minutes)
 
@@ -292,6 +293,7 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 
 - Updated the colab repo
 
+---
 
 ### 08.08.2025 (4 hours and 15 minutes)
 
@@ -325,15 +327,16 @@ export PATH=/usr/local/zeek/bin:$PATH
 
 - researched and learned more about Zeek
 
+---
 
 ### 11.08.2025 (6 hours and 25 minutes)
 
 11:01-17:27
 
 
--Zeek still made a lot of errors since it was a dev version, so I switched to ubuntu
+- Zeek still made a lot of errors since it was a dev version, so I switched to ubuntu
 
--installed it using:
+- installed it using:
 
 ```bash
 echo 'deb http://download.opensuse.org/repositories/security:/zeek/xUbuntu_25.04/ /' | sudo tee /etc/apt/sources.list.d/security:zeek.list
