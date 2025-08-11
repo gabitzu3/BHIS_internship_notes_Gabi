@@ -207,7 +207,6 @@ This document outlines the daily tasks and learning activities undertaken as par
 
 
 
--------//Clockify not updated //August
 
 ### 01.08.2025 (1 hour and 20 minutes)
 
@@ -275,8 +274,10 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 
 ### 07.08.2025 (7 hours and 35 minutes)
 
-14:00-15:40    
+14:00-15:40
+
 16:15-22:20
+
 > -10 minutes(2 toilet breaks)
 
 - worked on the .eml files in the email section
@@ -290,3 +291,73 @@ E: threads: thread "W#01-lo" failed to start: flags 0423")
 - Finished all 8 .eml files and ctf questions!
 
 - Updated the colab repo
+
+
+### 08.08.2025 (4 hours and 15 minutes)
+
+14:01-15:13 (1 hour and 10 minutes)
+
+17:00-20:05 (3 hours and 5 minutes)
+
+- update course navigation
+
+- wifi Forge?(didn't really understand what to do)
+
+- debugged zeek ,FINALY MADE IT RUN using this method:
+
+```
+sudo apt install cmake make gcc g++ flex bison libpcap-dev libssl-dev python3-dev swig zlib1g-dev
+git clone https://github.com/zeek/zeek
+cd zeek
+cd /home/kali/Downloads/zeek && git submodule update --recursive --init
+./configure
+sudo apt install libzmq3-dev libczmq-dev
+sudo apt install libnode-dev
+make distclean || rm -rf build
+git submodule update --init --recursive
+./configure
+make -j$(nproc)
+sudo make install
+export PATH=/usr/local/zeek/bin:$PATH
+```
+
+- updated all the course sections with Tim's requirements // the whole repo
+
+- researched and learned more about Zeek
+
+
+### 11.08.2025 (5 hours and 25 minutes)
+
+11:01-17:27
+
+
+-Zeek still made a lot of errors since it was a dev version, so I switched to ubuntu
+
+-installed it using:
+
+```bash
+echo 'deb http://download.opensuse.org/repositories/security:/zeek/xUbuntu_25.04/ /' | sudo tee /etc/apt/sources.list.d/security:zeek.list
+curl -fsSL https://download.opensuse.org/repositories/security:zeek/xUbuntu_25.04/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/security_zeek.gpg > /dev/null
+sudo apt update
+sudo rm /etc/apt/trusted.gpg.d/security_zeek.gpg
+sudo rm /etc/apt/sources.list.d/security_zeek.list 2>/dev/null
+curl -fsSL https://download.opensuse.org/repositories/security:zeek/xUbuntu_24.04/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/security_zeek.gpg > /dev/null
+echo 'deb http://download.opensuse.org/repositories/security:/zeek/xUbuntu_24.04/ /' | sudo tee /etc/apt/sources.list.d/security_zeek.list
+sudo apt update
+whereis zeek
+nano ~/.bashrc
+source ~/.bashrc
+```
+
+and only after these, zeek finaly worked:
+```bash
+user@ubuntuVM:~$ zeek -v
+zeek version 7.2.2
+```
+
+- learned zeek more
+
+- worked on lab documentation
+
+- finished the zeek lab/mini-solution(results)
+
