@@ -364,3 +364,25 @@ zeek version 7.2.2
 
 - finished the zeek lab/mini-solution(results)
 
+---
+
+### 12.08.2025 (5 hours and 50 minutes)
+
+14:34-17:38
+18:02-20:55
+
+- Finished updating the zeek documentation with everything I learned new
+
+- Updating networking labs
+
+- Learned more about WifiForge and tried the labs 
+
+> - // Forking [WifiForge repository](https://github.com/Wififorge/Wififorge.github.io/tree/v4/content) and Lab Walkthroughs for update as Tim said.(The photos for the labs didn't work)
+
+- THE PHOTOS ACTUALLY WORKED, but only for the quartz deployment so my update was useless
+
+- finished all the instructions so ace-t ctf
+
+- updated [this 5 y o script](https://github.com/DefensiveOrigins/ps-whitenoiseweb). I made a new [working script here](./Documentation%20Notes/WhiteNoise.ps1)
+
+
