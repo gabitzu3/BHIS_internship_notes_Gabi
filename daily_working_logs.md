@@ -386,4 +386,22 @@ zeek version 7.2.2
 
 - updated [this 5 y o script](https://github.com/DefensiveOrigins/ps-whitenoiseweb). I made a new [working script here](./Documentation%20Notes/WhiteNoise.ps1)
 
+---
+
+### 13.08.2025 (6 hours and 50 minutes)
+
+14:00-18:22
+
+19:01-21:30
+
+- researched Scapy... WOW
+
+- worked and finished the [part 1 documentation of Scapy](./Documentation%20Notes/Scripting%20for%20SOC%20Tasks/documentation_notes/scapy_documentation_part1.md)
+
+- worked on a practical lab for Scapy
+
+- worked on a few small scripts for the Scapy documentation
+
+- worked on 2  scripts for the lab
+
 
