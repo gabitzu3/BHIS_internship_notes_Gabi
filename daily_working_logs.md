@@ -409,6 +409,7 @@ zeek version 7.2.2
 ### 14.08.2025  5 hours and 25 minutes
 
 17:22-22:47  
+23:30-23:45
 
 - worked and finished the [part 2 documentation of Scapy](./Documentation%20Notes/Scripting%20for%20SOC%20Tasks/documentation_notes/scapy_documentation_part2.md) 
 
@@ -420,4 +421,4 @@ zeek version 7.2.2
 
 - updated the White Noise PS Script
 
-
+- setup a File Server on DC2/ proxmox lab
