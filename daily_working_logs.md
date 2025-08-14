@@ -404,4 +404,20 @@ zeek version 7.2.2
 
 - worked on 2  scripts for the lab
 
+---
+
+### 14.08.2025  5 hours and 25 minutes
+
+17:22-22:47  
+
+- worked and finished the [part 2 documentation of Scapy](./Documentation%20Notes/Scripting%20for%20SOC%20Tasks/documentation_notes/scapy_documentation_part2.md) 
+
+- met with Owen for proxmox instructions
+
+- finished the [scapy lab](./Documentation%20Notes/Scripting%20for%20SOC%20Tasks/labs/scapy_lab.md)
+
+- finished the [scapy lab solution](./Documentation%20Notes/Scripting%20for%20SOC%20Tasks/labs/scapy_lab_solution.md)
+
+- updated the White Noise PS Script
+
 
