@@ -409,6 +409,7 @@ zeek version 7.2.2
 ### 14.08.2025  5 hours and 25 minutes
 
 17:22-22:47  
+
 23:30-23:45
 
 - worked and finished the [part 2 documentation of Scapy](./Documentation%20Notes/Scripting%20for%20SOC%20Tasks/documentation_notes/scapy_documentation_part2.md) 
@@ -422,3 +423,41 @@ zeek version 7.2.2
 - updated the White Noise PS Script
 
 - setup a File Server on DC2/ proxmox lab
+
+---
+
+### 15.08.2025 (3 hours //n)
+
+14:00-15:00
+
+21:00-23:00
+
+- finished all the tasks so learned more of ADHD
+
+---
+
+### 18.08.2025 (5 hours and 20 minutes)(1 hour and 15 minutes //n)
+
+3:47-17:03 
+
+18:00-23:20
+
+- finished all the tasks so learned more of ADHD
+
+- Researched and worked on browser malware documentation (new task)
+
+- Researched for a practical lab(something about browser malware)
+
+---
+
+### 19.08.2025  (5 hours and 35 minutes)
+
+13:59-16:00
+
+16:34-20:10
+
+- finished the [browser malware documentation](./Documentation%20Notes/Browser%20Malware/browser_malware.md)
+
+- finished the [practical lab](./Documentation%20Notes/Browser%20Malware/browser_malware_lab.md)
+
+- updated the colaborative repo
