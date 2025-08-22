@@ -461,3 +461,26 @@ zeek version 7.2.2
 - finished the [practical lab](./Documentation%20Notes/Browser%20Malware/browser_malware_lab.md)
 
 - updated the colaborative repo
+
+### 20.08.2025 and 21.08.2025 (3 hours and 25 minutes)
+
+- finished all the tasks so learned more of ADHD(also finished the course)
+
+### 22.08.2025 (8 hours and 35 minutes)
+
+14:00-10:56 // -20 minute(two 10 minute breaks)
+
+
+- loaded Zeek data into RITA in the new vm
+
+- worked on the RITA documentation(usage)(had some problems... commands not working)
+
+- researched RITA
+
+- found out why commands were not working (it is v5, not v4)
+
+- watched this whole [RITA Series](https://www.activecountermeasures.com/ritav5-the-video-series/)
+
+- finished [RITA usage documentation here](./Documentation%20Notes/Networking%20&%20Telemetry%20101/tools/rita.md)
+
+- finished ctf questions as RITA lab beside Alex
