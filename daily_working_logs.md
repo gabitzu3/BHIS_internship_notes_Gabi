@@ -27,7 +27,7 @@ This document outlines the daily tasks and learning activities undertaken as par
 - Created a new GitHub repository to store and organize Internship Notes.
 - Added previous notes from 15.07.2025 into the repository.
 - Set up a new **Windows 10 Virtual Machine** for lab purposes.
-- Worked on a lab releted to MITRE ATT&CK
+- Worked on a lab about to MITRE ATT&CK
 - Downloaded and installed **Hayabusa** in the VM.
 - Practiced basic Hayabusa commands:
 - Simulated a basic attack inside the VM.
@@ -154,7 +154,7 @@ This document outlines the daily tasks and learning activities undertaken as par
 
 - Started working on a new [IDS lab](./Documentation%20Notes/Networking%20&%20Telemetry%20101/labs/ids_lab) and finished it surprisingly today
 
-- Finished section 5:"Networking & Telemetry 101" and also finished the tools documentation releted to this section
+- Finished section 5:"Networking & Telemetry 101" and also finished the tools documentation about this section
 
 - Updated the colaborative repository with a part of my work.
 
@@ -484,3 +484,24 @@ zeek version 7.2.2
 - finished [RITA usage documentation here](./Documentation%20Notes/Networking%20&%20Telemetry%20101/tools/rita.md)
 
 - finished ctf questions as RITA lab beside Alex
+
+
+### 23.08.2025 (4 hours)
+
+- learned more about linux forensics, log analysis and UAC
+
+
+### 25.08.2025(7 hours and 30 minutes)
+
+13:30-21:10 (-10 minutes break)
+
+- learned more about linux forensics(file systems and process analysis)
+
+- researched satellite security as Tim said. //woooww
+
+### 26.08.2025 (8 hours and 40 minutes)
+
+13:32-20:33
+21:00-22:40
+
+- documented more tools and learned more stuff about satellite security.
