@@ -497,11 +497,11 @@ zeek version 7.2.2
 
 - learned more about linux forensics(file systems and process analysis)
 
-- researched satellite security as Tim said. //woooww
+- researched for the special project as Tim said. //woooww
 
 ### 26.08.2025 (8 hours and 40 minutes)
 
 13:32-20:33
 21:00-22:40
 
-- documented more tools and learned more stuff about satellite security.
+- documented more tools and learned more stuff about the special project.
