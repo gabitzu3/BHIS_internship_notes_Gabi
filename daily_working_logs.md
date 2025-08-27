@@ -505,3 +505,11 @@ zeek version 7.2.2
 21:00-22:40
 
 - documented more tools and learned more stuff about the special project.
+
+### 27.08.2025 (7 hours and 25 minutes)
+
+13:48-21:32 (-15 minutes break)
+
+- updated RITA documentation
+
+- researched and worked more on the special project
