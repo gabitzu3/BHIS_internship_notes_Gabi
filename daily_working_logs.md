@@ -513,3 +513,13 @@ zeek version 7.2.2
 - updated RITA documentation
 
 - researched and worked more on the special project
+
+### 28.08.2025 (8 hours and 25 minutes)
+
+
+13:56-18:50
+
+19:45-23:16
+
+
+- Worked on the **Special Project**
