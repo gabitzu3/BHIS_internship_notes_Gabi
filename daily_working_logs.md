@@ -523,3 +523,15 @@ zeek version 7.2.2
 
 
 - Worked on the **Special Project**
+
+### 29.08.2025 (3 hours)
+
+10:00-13:00
+
+- Worked on the **Special Project**
+
+### 30.08.2025 (4 hours and 55 minutes)
+
+15:00-19:55 
+
+- Worked on the **Special Project**
