@@ -553,3 +553,11 @@ zeek version 7.2.2
 09:22-15:29
 
 - Worked on the **Special Project** +ACE-T 
+
+### 04.09.2025
+
+10:10-12:30
+
+13:54-19:00
+
+- Worked on the **Special Project** + learned more about Linux Forensics
