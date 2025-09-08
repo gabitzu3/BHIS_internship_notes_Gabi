@@ -567,3 +567,9 @@ zeek version 7.2.2
 09:29-17:42(-10 minutes break)
 
 - Worked on the **Special Project** + learned more about Linux Forensics +ACE-T
+
+### 08.09.2025 (6 hours)
+
+14:15-20:20 (-5 minutes break)
+
+- Finished all the tasks so I learned more about Linux Forensics +ACE-T
