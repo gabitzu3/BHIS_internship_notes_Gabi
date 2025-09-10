@@ -573,3 +573,13 @@ zeek version 7.2.2
 14:15-20:20 (-5 minutes break)
 
 - Finished all the tasks so I learned more about Linux Forensics +ACE-T
+
+### 09.09.2025 (4 hours and 10 minutes)
+
+- Finished all the tasks so I learned more about Linux Forensics +ACE-T
+
+### 10.09.2025 (4 hours)
+
+16:00-20:01
+
+-debugged wififorge vm
